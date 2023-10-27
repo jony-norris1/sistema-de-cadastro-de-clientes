@@ -1,0 +1,5 @@
+mkdir backend-empresa
+cd backend-empresa
+npm init -y
+
+npm install express mysql2 reflect-metadata typeorm class-validator
