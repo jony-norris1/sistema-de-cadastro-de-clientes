@@ -29,7 +29,7 @@ const CadastroEmpresa: React.FC = () => {
   };
 
   const enviarCadastro = () => {
-    // Envie o formulário para o servidor
+
   };
 
   return (
@@ -46,4 +46,4 @@ const CadastroEmpresa: React.FC = () => {
 
 export default CadastroEmpresa;
 
-#Lembre-se de substituir 'seu_usuario' e 'sua_senha' pelas informações de acesso ao seu banco de dados MySQL no back-end. Além disso, implemente a validação de campos e a lógica de envio do formulário de cadastro de empresa no front-end e no back-end, de acordo com os requisitos fornecidos.
+# Lembre-se de substituir 'seu_usuario' e 'sua_senha' pelas informações de acesso ao seu banco de dados MySQL no back-end. Além disso, implemente a validação de campos e a lógica de envio do formulário de cadastro de empresa no front-end e no back-end, de acordo com os requisitos fornecidos.
